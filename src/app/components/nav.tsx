@@ -40,7 +40,7 @@ export default function Navbar(){
         </li>
         <li>
           <Link
-            href="/bloglist"
+            href="#"
             className="block py-2 px-3 text-[#333333] hover:text-[#7C4EE4] hover:underline hover:underline-offset-4 hover:decoration-[#7C4EE4] md:dark:hover:text-[#7C4EE4] md:hover:text-[#7C4EE4] rounded md:hover:bg-transparent  md:p-0"
           >
             Blog
@@ -62,3 +62,4 @@ export default function Navbar(){
         </div>
     )
 }
+
